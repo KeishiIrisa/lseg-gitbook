@@ -4,7 +4,8 @@
 
 ## Getting Started
 
-* [Python入門](getting-started/quickstart.md)
+* [Python入門](getting-started/quickstart/README.md)
+  * [基本文法](getting-started/quickstart/ji-ben-wen-fa.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
 
 ## Basics
